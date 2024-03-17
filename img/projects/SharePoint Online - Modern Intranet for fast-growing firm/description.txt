@@ -1,0 +1,17 @@
+Client's Goals:
+
+- To provide a modern, intuitive, and engaging communication/collaboration platform for its growing staff.
+- To provide a way to automate back-office processes
+- To provide a way to quickly spin up teams for project work
+
+Solution:
+
+- Built a modern, beautiful collaboration solution on top of SharePoint Online including social features to promote employee engagement
+- Numerous customizations which further facilitate collaboration and address the client's specific needs
+- An intuitive Project Portal which automates the process of spinning up project teams and providing them with a digital workplace to collaborate
+
+Outcome:
+
+- Client feels they have significantly increased their ROI from SharePoint Online
+- Encouraging users to adopt the new system has proven easier than initially expected
+- Measurable productivity increases due to automation of back-office processes and easier document collaboration 

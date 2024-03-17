@@ -1,0 +1,10 @@
+Project description
+
+One page website was accomplished in wordpress.
+
+Its about carpet cleaning process , Odor Treatment, Pet Stain Removal etc
+
+We have created mockup, custom theme development ,integrated with social media, plugin integration and development.  
+less
+Show less text
+http://www.tidymax.com/

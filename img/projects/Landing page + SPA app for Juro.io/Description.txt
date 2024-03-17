@@ -1,0 +1,8 @@
+Project description
+
+Full-time Front-end job, started from landing page, and then transformed to web application (AngularJS).
+
+I have created clean and responsive mobile first layouts, using bootstrap3 and BEM SCSS technology.  
+less
+Show less text
+https://juro.io/
